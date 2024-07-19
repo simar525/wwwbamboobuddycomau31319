@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://bamboo-buddy.subamplify.com/$1"
+ }
+  ]
+}
